@@ -1,0 +1,13 @@
+.bio-body {
+  visibility: hidden;
+}
+
+noscript {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-js-img {
+  width: 300px;
+}
